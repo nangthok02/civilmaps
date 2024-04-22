@@ -7,7 +7,7 @@
 perbarui ke versi terbaru 8.0.0 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
-"download":"https://terabox.com/s/1cu7wRui4ptFUNdxBpS67cQ"
+"download":"https://drive.google.com/file/d/11azd11sXHQ5v3DCshRDgv1vx6cSUCQjp/view?usp=drivesdk"
 }
   ]
 }
