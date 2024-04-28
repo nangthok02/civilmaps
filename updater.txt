@@ -1,10 +1,10 @@
 {
   "civil_update": [
     {
- "version":"8.0.0",
+ "version":"7.1.2",
  "title":"Update Tersedia",
  "description":"Salmod Civil Maps merekomendasikan Anda
-perbarui ke versi terbaru 8.0.0 Anda
+perbarui ke versi terbaru 7.1.2 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
 "download":"https://drive.google.com/file/d/11azd11sXHQ5v3DCshRDgv1vx6cSUCQjp/view?usp=drivesdk"
