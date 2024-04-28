@@ -7,7 +7,7 @@
 perbarui ke versi terbaru 7.1.2 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
-"download":"https://drive.google.com/file/d/11azd11sXHQ5v3DCshRDgv1vx6cSUCQjp/view?usp=drivesdk"
+"download":"https://drive.google.com/"
 }
   ]
 }
